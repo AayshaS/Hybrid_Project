@@ -1,0 +1,135 @@
+[INFO ] 2023-08-09 10:45:28.305 [main] CustomListener - alertDailogBox--                      +++++++++++++++++++ Skipped +++++++++++++++ 
+[INFO ] 2023-08-09 10:45:28.317 [main] CustomListener - alertDailogBox--                      +++++++++++++++++++ Skipped +++++++++++++++ 
+[INFO ] 2023-08-09 10:45:28.317 [main] CustomListener - alertDailogBox--                      +++++++++++++++++++ Skipped +++++++++++++++ 
+[INFO ] 2023-08-09 10:45:28.317 [main] CustomListener - alertDailogBox--                      +++++++++++++++++++ Skipped +++++++++++++++ 
+[INFO ] 2023-08-09 10:46:38.363 [main] CustomListener - alertDailogBox--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+[INFO ] 2023-08-09 10:46:38.405 [main] CustomListener - alertDailogBox--                                OOO    KK KK    
+[INFO ] 2023-08-09 10:46:38.405 [main] CustomListener - alertDailogBox--                               OO OO   KKK      
+[INFO ] 2023-08-09 10:46:38.405 [main] CustomListener - alertDailogBox--                                OOO    KK KK   
+[INFO ] 2023-08-09 10:46:38.406 [main] CustomListener - alertDailogBox--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+[INFO ] 2023-08-09 10:48:12.823 [main] CustomListener - alertDailogBox--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+[INFO ] 2023-08-09 10:48:12.829 [main] CustomListener - alertDailogBox--                                OOO    KK KK    
+[INFO ] 2023-08-09 10:48:12.829 [main] CustomListener - alertDailogBox--                               OO OO   KKK      
+[INFO ] 2023-08-09 10:48:12.829 [main] CustomListener - alertDailogBox--                                OOO    KK KK   
+[INFO ] 2023-08-09 10:48:12.829 [main] CustomListener - alertDailogBox--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+[INFO ] 2023-08-09 10:56:59.263 [main] Log - Sauselab URL is loaded
+[INFO ] 2023-08-09 10:56:59.273 [main] Log - Enter username
+[INFO ] 2023-08-09 10:56:59.277 [main] Log - Click Side bar 
+[INFO ] 2023-08-09 10:57:40.889 [main] Log - Sauselab URL is loaded
+[INFO ] 2023-08-09 10:57:40.902 [main] Log - Enter username
+[INFO ] 2023-08-09 10:57:41.009 [main] Log - Enter  Password
+[INFO ] 2023-08-09 10:57:41.201 [main] Log - Click login BTN
+[INFO ] 2023-08-09 10:57:41.238 [main] Log - verify page title
+[INFO ] 2023-08-09 10:57:41.239 [main] Log - Click Side bar 
+[INFO ] 2023-08-09 10:57:43.318 [main] Log - verify page title 
+[INFO ] 2023-08-09 10:57:43.356 [main] Log - verify Logot BTN
+[INFO ] 2023-08-09 10:57:43.356 [main] Log - Click Logot BTN
+[INFO ] 2023-08-09 11:00:48.294 [main] CustomListener - alertDailogBox--                      +++++++++++++++++++ Skipped +++++++++++++++ 
+[INFO ] 2023-08-09 11:00:48.299 [main] CustomListener - alertDailogBox--                      +++++++++++++++++++ Skipped +++++++++++++++ 
+[INFO ] 2023-08-09 11:00:48.299 [main] CustomListener - alertDailogBox--                      +++++++++++++++++++ Skipped +++++++++++++++ 
+[INFO ] 2023-08-09 11:00:48.299 [main] CustomListener - alertDailogBox--                      +++++++++++++++++++ Skipped +++++++++++++++ 
+[INFO ] 2023-08-09 11:01:17.009 [main] CustomListener - alertDailogBox--                     *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*# 
+[INFO ] 2023-08-09 11:01:17.016 [main] CustomListener - alertDailogBox--                        FFFFF     AA       II   LL 
+[INFO ] 2023-08-09 11:01:17.017 [main] CustomListener - alertDailogBox--                        FF       AAAA      II   LL
+[INFO ] 2023-08-09 11:01:17.017 [main] CustomListener - alertDailogBox--                        FFFF    AA  AA     II   LL
+[INFO ] 2023-08-09 11:01:17.017 [main] CustomListener - alertDailogBox--                        FF     AAAAAAAA    II   LL
+[INFO ] 2023-08-09 11:01:17.017 [main] CustomListener - alertDailogBox--                        FF    AA      AA   II   LLLLLL
+[INFO ] 2023-08-09 11:01:17.017 [main] CustomListener - alertDailogBox--                      *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*# 
+[INFO ] 2023-08-09 11:01:17.018 [main] CustomListener - null
+[INFO ] 2023-08-09 11:01:17.018 [main] CustomListener - org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+[INFO ] 2023-08-09 11:01:17.018 [main] CustomListener - org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+[INFO ] 2023-08-09 11:01:17.018 [main] CustomListener - com.sun.proxy.$Proxy30.click(Unknown Source)
+[INFO ] 2023-08-09 11:01:17.018 [main] CustomListener - androidapp.pageObjectClass.Practice.openApp(Practice.java:50)
+[INFO ] 2023-08-09 11:01:17.018 [main] CustomListener - androidapptest.PracticeTest.alertDailogBox(PracticeTest.java:31)
+[INFO ] 2023-08-09 11:01:17.019 [main] CustomListener - sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[INFO ] 2023-08-09 11:01:17.019 [main] CustomListener - sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[INFO ] 2023-08-09 11:01:17.019 [main] CustomListener - sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[INFO ] 2023-08-09 11:01:17.019 [main] CustomListener - java.lang.reflect.Method.invoke(Method.java:498)
+[INFO ] 2023-08-09 11:01:17.019 [main] CustomListener - org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+[INFO ] 2023-08-09 11:01:17.020 [main] CustomListener - org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+[INFO ] 2023-08-09 11:01:17.020 [main] CustomListener - org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+[INFO ] 2023-08-09 11:01:17.020 [main] CustomListener - org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+[INFO ] 2023-08-09 11:01:17.020 [main] CustomListener - org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+[INFO ] 2023-08-09 11:01:17.020 [main] CustomListener - org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+[INFO ] 2023-08-09 11:01:17.020 [main] CustomListener - org.testng.TestRunner.privateRun(TestRunner.java:782)
+[INFO ] 2023-08-09 11:01:17.020 [main] CustomListener - org.testng.TestRunner.run(TestRunner.java:632)
+[INFO ] 2023-08-09 11:01:17.020 [main] CustomListener - org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+[INFO ] 2023-08-09 11:01:17.020 [main] CustomListener - org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+[INFO ] 2023-08-09 11:01:17.020 [main] CustomListener - org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+[INFO ] 2023-08-09 11:01:17.021 [main] CustomListener - org.testng.SuiteRunner.run(SuiteRunner.java:268)
+[INFO ] 2023-08-09 11:01:17.021 [main] CustomListener - org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+[INFO ] 2023-08-09 11:01:17.021 [main] CustomListener - org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+[INFO ] 2023-08-09 11:01:17.022 [main] CustomListener - org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+[INFO ] 2023-08-09 11:01:17.022 [main] CustomListener - org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+[INFO ] 2023-08-09 11:01:17.022 [main] CustomListener - org.testng.TestNG.run(TestNG.java:1064)
+[INFO ] 2023-08-09 11:01:17.022 [main] CustomListener - com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+[INFO ] 2023-08-09 11:01:17.022 [main] CustomListener - com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+[INFO ] 2023-08-09 11:02:21.350 [main] CustomListener - alertDailogBox--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+[INFO ] 2023-08-09 11:02:21.360 [main] CustomListener - alertDailogBox--                                OOO    KK KK    
+[INFO ] 2023-08-09 11:02:21.360 [main] CustomListener - alertDailogBox--                               OO OO   KKK      
+[INFO ] 2023-08-09 11:02:21.361 [main] CustomListener - alertDailogBox--                                OOO    KK KK   
+[INFO ] 2023-08-09 11:02:21.361 [main] CustomListener - alertDailogBox--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+[INFO ] 2023-08-09 11:04:10.176 [main] CustomListener - alertDailogBox--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+[INFO ] 2023-08-09 11:04:10.183 [main] CustomListener - alertDailogBox--                                OOO    KK KK    
+[INFO ] 2023-08-09 11:04:10.184 [main] CustomListener - alertDailogBox--                               OO OO   KKK      
+[INFO ] 2023-08-09 11:04:10.184 [main] CustomListener - alertDailogBox--                                OOO    KK KK   
+[INFO ] 2023-08-09 11:04:10.184 [main] CustomListener - alertDailogBox--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+[INFO ] 2023-08-09 11:11:59.366 [main] CustomListener - alertDailogBox--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+[INFO ] 2023-08-09 11:11:59.374 [main] CustomListener - alertDailogBox--                                OOO    KK KK    
+[INFO ] 2023-08-09 11:11:59.376 [main] CustomListener - alertDailogBox--                               OO OO   KKK      
+[INFO ] 2023-08-09 11:11:59.376 [main] CustomListener - alertDailogBox--                                OOO    KK KK   
+[INFO ] 2023-08-09 11:11:59.376 [main] CustomListener - alertDailogBox--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+[INFO ] 2023-08-09 11:14:33.385 [main] CustomListener - alertDailogBox--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+[INFO ] 2023-08-09 11:14:33.392 [main] CustomListener - alertDailogBox--                                OOO    KK KK    
+[INFO ] 2023-08-09 11:14:33.392 [main] CustomListener - alertDailogBox--                               OO OO   KKK      
+[INFO ] 2023-08-09 11:14:33.392 [main] CustomListener - alertDailogBox--                                OOO    KK KK   
+[INFO ] 2023-08-09 11:14:33.392 [main] CustomListener - alertDailogBox--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+[INFO ] 2023-08-09 11:24:33.290 [main] Log - I am in on Start Gorest API Testing
+[INFO ] 2023-08-09 11:24:46.123 [main] Log - alertDailogBox test is starting.
+[INFO ] 2023-08-09 11:25:00.995 [main] Log - alertDailogBox test is succeed.
+[INFO ] 2023-08-09 11:25:00.999 [main] Log - alertDailogBox test is failed.
+[INFO ] 2023-08-09 11:25:06.803 [main] Log - I am in on Finish Gorest API Testing
+[INFO ] 2023-08-09 12:48:58.686 [main] CustomListener - testCreateUser--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+[INFO ] 2023-08-09 12:48:58.691 [main] CustomListener - testCreateUser--                                OOO    KK KK    
+[INFO ] 2023-08-09 12:48:58.691 [main] CustomListener - testCreateUser--                               OO OO   KKK      
+[INFO ] 2023-08-09 12:48:58.691 [main] CustomListener - testCreateUser--                                OOO    KK KK   
+[INFO ] 2023-08-09 12:48:58.691 [main] CustomListener - testCreateUser--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+[INFO ] 2023-08-09 12:49:00.463 [main] CustomListener - testGetUser--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+[INFO ] 2023-08-09 12:49:00.463 [main] CustomListener - testGetUser--                                OOO    KK KK    
+[INFO ] 2023-08-09 12:49:00.463 [main] CustomListener - testGetUser--                               OO OO   KKK      
+[INFO ] 2023-08-09 12:49:00.463 [main] CustomListener - testGetUser--                                OOO    KK KK   
+[INFO ] 2023-08-09 12:49:00.463 [main] CustomListener - testGetUser--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+[INFO ] 2023-08-09 12:49:02.436 [main] CustomListener - testUpdatetUser--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+[INFO ] 2023-08-09 12:49:02.438 [main] CustomListener - testUpdatetUser--                                OOO    KK KK    
+[INFO ] 2023-08-09 12:49:02.438 [main] CustomListener - testUpdatetUser--                               OO OO   KKK      
+[INFO ] 2023-08-09 12:49:02.438 [main] CustomListener - testUpdatetUser--                                OOO    KK KK   
+[INFO ] 2023-08-09 12:49:02.438 [main] CustomListener - testUpdatetUser--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+[INFO ] 2023-08-09 12:49:03.645 [main] CustomListener - testDeleteUser--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+[INFO ] 2023-08-09 12:49:03.645 [main] CustomListener - testDeleteUser--                                OOO    KK KK    
+[INFO ] 2023-08-09 12:49:03.645 [main] CustomListener - testDeleteUser--                               OO OO   KKK      
+[INFO ] 2023-08-09 12:49:03.645 [main] CustomListener - testDeleteUser--                                OOO    KK KK   
+[INFO ] 2023-08-09 12:49:03.645 [main] CustomListener - testDeleteUser--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+[INFO ] 2023-08-09 12:49:29.675 [main] CustomListener - alertDailogBox--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+[INFO ] 2023-08-09 12:49:29.675 [main] CustomListener - alertDailogBox--                                OOO    KK KK    
+[INFO ] 2023-08-09 12:49:29.675 [main] CustomListener - alertDailogBox--                               OO OO   KKK      
+[INFO ] 2023-08-09 12:49:29.675 [main] CustomListener - alertDailogBox--                                OOO    KK KK   
+[INFO ] 2023-08-09 12:49:29.675 [main] CustomListener - alertDailogBox--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+[INFO ] 2023-08-09 12:49:41.970 [main] Log - Sauselab URL is loaded
+[INFO ] 2023-08-09 12:49:41.970 [main] Log - Enter username
+[INFO ] 2023-08-09 12:49:42.065 [main] Log - Enter  Password
+[INFO ] 2023-08-09 12:49:42.223 [main] Log - Click login BTN
+[INFO ] 2023-08-09 12:49:42.249 [main] Log - verify page title
+[INFO ] 2023-08-09 12:49:42.250 [main] CustomListener - userLoginTest--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+[INFO ] 2023-08-09 12:49:42.250 [main] CustomListener - userLoginTest--                                OOO    KK KK    
+[INFO ] 2023-08-09 12:49:42.250 [main] CustomListener - userLoginTest--                               OO OO   KKK      
+[INFO ] 2023-08-09 12:49:42.250 [main] CustomListener - userLoginTest--                                OOO    KK KK   
+[INFO ] 2023-08-09 12:49:42.250 [main] CustomListener - userLoginTest--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+[INFO ] 2023-08-09 12:49:42.250 [main] Log - Click Side bar 
+[INFO ] 2023-08-09 12:49:44.315 [main] Log - verify page title 
+[INFO ] 2023-08-09 12:49:44.383 [main] Log - verify Logot BTN
+[INFO ] 2023-08-09 12:49:44.384 [main] Log - Click Logot BTN
+[INFO ] 2023-08-09 12:49:44.477 [main] CustomListener - userLogoutTest--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+[INFO ] 2023-08-09 12:49:44.478 [main] CustomListener - userLogoutTest--                                OOO    KK KK    
+[INFO ] 2023-08-09 12:49:44.478 [main] CustomListener - userLogoutTest--                               OO OO   KKK      
+[INFO ] 2023-08-09 12:49:44.478 [main] CustomListener - userLogoutTest--                                OOO    KK KK   
+[INFO ] 2023-08-09 12:49:44.478 [main] CustomListener - userLogoutTest--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  

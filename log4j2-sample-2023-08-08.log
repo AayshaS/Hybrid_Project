@@ -1,0 +1,103 @@
+[INFO ] 2023-08-08 13:20:25.603 [main] Log - Sauselab URL is loaded
+[INFO ] 2023-08-08 13:20:25.619 [main] Log - Enter username
+[INFO ] 2023-08-08 13:20:25.720 [main] Log - Enter  Password
+[INFO ] 2023-08-08 13:20:25.929 [main] Log - Click login BTN
+[INFO ] 2023-08-08 13:20:25.961 [main] Log - verify page title
+[INFO ] 2023-08-08 13:20:25.966 [main] CustomListener - userLoginTest--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+[INFO ] 2023-08-08 13:20:25.966 [main] CustomListener - userLoginTest--                                OOO    KK KK    
+[INFO ] 2023-08-08 13:20:25.966 [main] CustomListener - userLoginTest--                               OO OO   KKK      
+[INFO ] 2023-08-08 13:20:25.966 [main] CustomListener - userLoginTest--                                OOO    KK KK   
+[INFO ] 2023-08-08 13:20:25.966 [main] CustomListener - userLoginTest--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+[INFO ] 2023-08-08 13:20:25.966 [main] Log - Click Side bar 
+[INFO ] 2023-08-08 13:20:28.032 [main] Log - verify page title 
+[INFO ] 2023-08-08 13:20:28.075 [main] Log - verify Logot BTN
+[INFO ] 2023-08-08 13:20:28.075 [main] Log - Click Logot BTN
+[INFO ] 2023-08-08 13:20:28.231 [main] CustomListener - userLogoutTest--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+[INFO ] 2023-08-08 13:20:28.231 [main] CustomListener - userLogoutTest--                                OOO    KK KK    
+[INFO ] 2023-08-08 13:20:28.231 [main] CustomListener - userLogoutTest--                               OO OO   KKK      
+[INFO ] 2023-08-08 13:20:28.231 [main] CustomListener - userLogoutTest--                                OOO    KK KK   
+[INFO ] 2023-08-08 13:20:28.231 [main] CustomListener - userLogoutTest--                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+[INFO ] 2023-08-08 13:45:56.287 [main] CustomListener - alertDailogBox--                      +++++++++++++++++++ Skipped +++++++++++++++ 
+[INFO ] 2023-08-08 13:45:56.290 [main] CustomListener - alertDailogBox--                      +++++++++++++++++++ Skipped +++++++++++++++ 
+[INFO ] 2023-08-08 13:45:56.290 [main] CustomListener - alertDailogBox--                      +++++++++++++++++++ Skipped +++++++++++++++ 
+[INFO ] 2023-08-08 13:45:56.290 [main] CustomListener - alertDailogBox--                      +++++++++++++++++++ Skipped +++++++++++++++ 
+[INFO ] 2023-08-08 13:50:44.139 [main] CustomListener - alertDailogBox--                      +++++++++++++++++++ Skipped +++++++++++++++ 
+[INFO ] 2023-08-08 13:50:44.142 [main] CustomListener - alertDailogBox--                      +++++++++++++++++++ Skipped +++++++++++++++ 
+[INFO ] 2023-08-08 13:50:44.143 [main] CustomListener - alertDailogBox--                      +++++++++++++++++++ Skipped +++++++++++++++ 
+[INFO ] 2023-08-08 13:50:44.143 [main] CustomListener - alertDailogBox--                      +++++++++++++++++++ Skipped +++++++++++++++ 
+[INFO ] 2023-08-08 13:59:23.996 [main] CustomListener - alertDailogBox--                      +++++++++++++++++++ Skipped +++++++++++++++ 
+[INFO ] 2023-08-08 13:59:23.999 [main] CustomListener - alertDailogBox--                      +++++++++++++++++++ Skipped +++++++++++++++ 
+[INFO ] 2023-08-08 13:59:23.999 [main] CustomListener - alertDailogBox--                      +++++++++++++++++++ Skipped +++++++++++++++ 
+[INFO ] 2023-08-08 13:59:23.999 [main] CustomListener - alertDailogBox--                      +++++++++++++++++++ Skipped +++++++++++++++ 
+[INFO ] 2023-08-08 14:02:48.703 [main] CustomListener - alertDailogBox--                     *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*# 
+[INFO ] 2023-08-08 14:02:48.708 [main] CustomListener - alertDailogBox--                        FFFFF     AA       II   LL 
+[INFO ] 2023-08-08 14:02:48.708 [main] CustomListener - alertDailogBox--                        FF       AAAA      II   LL
+[INFO ] 2023-08-08 14:02:48.708 [main] CustomListener - alertDailogBox--                        FFFF    AA  AA     II   LL
+[INFO ] 2023-08-08 14:02:48.708 [main] CustomListener - alertDailogBox--                        FF     AAAAAAAA    II   LL
+[INFO ] 2023-08-08 14:02:48.708 [main] CustomListener - alertDailogBox--                        FF    AA      AA   II   LLLLLL
+[INFO ] 2023-08-08 14:02:48.708 [main] CustomListener - alertDailogBox--                      *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*# 
+[INFO ] 2023-08-08 14:02:48.708 [main] CustomListener - null
+[INFO ] 2023-08-08 14:02:48.708 [main] CustomListener - androidapp.pageObjectClass.Practice.log(Practice.java:106)
+[INFO ] 2023-08-08 14:02:48.708 [main] CustomListener - androidapp.pageObjectClass.Practice.openApp(Practice.java:50)
+[INFO ] 2023-08-08 14:02:48.709 [main] CustomListener - androidapptest.PracticeTest.alertDailogBox(PracticeTest.java:30)
+[INFO ] 2023-08-08 14:02:48.709 [main] CustomListener - sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[INFO ] 2023-08-08 14:02:48.709 [main] CustomListener - sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[INFO ] 2023-08-08 14:02:48.709 [main] CustomListener - sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[INFO ] 2023-08-08 14:02:48.709 [main] CustomListener - java.lang.reflect.Method.invoke(Method.java:498)
+[INFO ] 2023-08-08 14:02:48.709 [main] CustomListener - org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+[INFO ] 2023-08-08 14:02:48.709 [main] CustomListener - org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+[INFO ] 2023-08-08 14:02:48.709 [main] CustomListener - org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+[INFO ] 2023-08-08 14:02:48.709 [main] CustomListener - org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+[INFO ] 2023-08-08 14:02:48.709 [main] CustomListener - org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+[INFO ] 2023-08-08 14:02:48.709 [main] CustomListener - org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+[INFO ] 2023-08-08 14:02:48.709 [main] CustomListener - org.testng.TestRunner.privateRun(TestRunner.java:782)
+[INFO ] 2023-08-08 14:02:48.710 [main] CustomListener - org.testng.TestRunner.run(TestRunner.java:632)
+[INFO ] 2023-08-08 14:02:48.710 [main] CustomListener - org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+[INFO ] 2023-08-08 14:02:48.710 [main] CustomListener - org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+[INFO ] 2023-08-08 14:02:48.710 [main] CustomListener - org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+[INFO ] 2023-08-08 14:02:48.710 [main] CustomListener - org.testng.SuiteRunner.run(SuiteRunner.java:268)
+[INFO ] 2023-08-08 14:02:48.710 [main] CustomListener - org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+[INFO ] 2023-08-08 14:02:48.710 [main] CustomListener - org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+[INFO ] 2023-08-08 14:02:48.710 [main] CustomListener - org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+[INFO ] 2023-08-08 14:02:48.710 [main] CustomListener - org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+[INFO ] 2023-08-08 14:02:48.710 [main] CustomListener - org.testng.TestNG.run(TestNG.java:1064)
+[INFO ] 2023-08-08 14:02:48.710 [main] CustomListener - com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+[INFO ] 2023-08-08 14:02:48.710 [main] CustomListener - com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+[INFO ] 2023-08-08 14:06:15.802 [main] CustomListener - alertDailogBox--                     *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*# 
+[INFO ] 2023-08-08 14:06:15.806 [main] CustomListener - alertDailogBox--                        FFFFF     AA       II   LL 
+[INFO ] 2023-08-08 14:06:15.806 [main] CustomListener - alertDailogBox--                        FF       AAAA      II   LL
+[INFO ] 2023-08-08 14:06:15.806 [main] CustomListener - alertDailogBox--                        FFFF    AA  AA     II   LL
+[INFO ] 2023-08-08 14:06:15.806 [main] CustomListener - alertDailogBox--                        FF     AAAAAAAA    II   LL
+[INFO ] 2023-08-08 14:06:15.806 [main] CustomListener - alertDailogBox--                        FF    AA      AA   II   LLLLLL
+[INFO ] 2023-08-08 14:06:15.806 [main] CustomListener - alertDailogBox--                      *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*# 
+[INFO ] 2023-08-08 14:06:15.806 [main] CustomListener - null
+[INFO ] 2023-08-08 14:06:15.806 [main] CustomListener - androidapp.pageObjectClass.Practice.log(Practice.java:106)
+[INFO ] 2023-08-08 14:06:15.806 [main] CustomListener - androidapp.pageObjectClass.Practice.openApp(Practice.java:50)
+[INFO ] 2023-08-08 14:06:15.807 [main] CustomListener - androidapptest.PracticeTest.alertDailogBox(PracticeTest.java:30)
+[INFO ] 2023-08-08 14:06:15.807 [main] CustomListener - sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[INFO ] 2023-08-08 14:06:15.807 [main] CustomListener - sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[INFO ] 2023-08-08 14:06:15.807 [main] CustomListener - sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[INFO ] 2023-08-08 14:06:15.807 [main] CustomListener - java.lang.reflect.Method.invoke(Method.java:498)
+[INFO ] 2023-08-08 14:06:15.807 [main] CustomListener - org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+[INFO ] 2023-08-08 14:06:15.807 [main] CustomListener - org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+[INFO ] 2023-08-08 14:06:15.807 [main] CustomListener - org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+[INFO ] 2023-08-08 14:06:15.807 [main] CustomListener - org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+[INFO ] 2023-08-08 14:06:15.807 [main] CustomListener - org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+[INFO ] 2023-08-08 14:06:15.807 [main] CustomListener - org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+[INFO ] 2023-08-08 14:06:15.807 [main] CustomListener - org.testng.TestRunner.privateRun(TestRunner.java:782)
+[INFO ] 2023-08-08 14:06:15.807 [main] CustomListener - org.testng.TestRunner.run(TestRunner.java:632)
+[INFO ] 2023-08-08 14:06:15.807 [main] CustomListener - org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+[INFO ] 2023-08-08 14:06:15.808 [main] CustomListener - org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+[INFO ] 2023-08-08 14:06:15.808 [main] CustomListener - org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+[INFO ] 2023-08-08 14:06:15.808 [main] CustomListener - org.testng.SuiteRunner.run(SuiteRunner.java:268)
+[INFO ] 2023-08-08 14:06:15.808 [main] CustomListener - org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+[INFO ] 2023-08-08 14:06:15.808 [main] CustomListener - org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+[INFO ] 2023-08-08 14:06:15.808 [main] CustomListener - org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+[INFO ] 2023-08-08 14:06:15.808 [main] CustomListener - org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+[INFO ] 2023-08-08 14:06:15.808 [main] CustomListener - org.testng.TestNG.run(TestNG.java:1064)
+[INFO ] 2023-08-08 14:06:15.808 [main] CustomListener - com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+[INFO ] 2023-08-08 14:06:15.808 [main] CustomListener - com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+[INFO ] 2023-08-08 16:19:54.971 [main] CustomListener - alertDailogBox--                      +++++++++++++++++++ Skipped +++++++++++++++ 
+[INFO ] 2023-08-08 16:19:54.975 [main] CustomListener - alertDailogBox--                      +++++++++++++++++++ Skipped +++++++++++++++ 
+[INFO ] 2023-08-08 16:19:54.975 [main] CustomListener - alertDailogBox--                      +++++++++++++++++++ Skipped +++++++++++++++ 
+[INFO ] 2023-08-08 16:19:54.975 [main] CustomListener - alertDailogBox--                      +++++++++++++++++++ Skipped +++++++++++++++ 

@@ -1,0 +1,14 @@
+<suite name="GoRestAPIProject">
+	<listeners>
+		<listener class-name="resources.utilitis.CustomListener"/>
+<!--		<listener class-name="utils.listeners.TestListener"/>-->
+	</listeners>
+	<test name="Gorest API Testing">
+		
+		<classes>
+			<class name="APITest.UserAPITest" enable="true" />
+			<class name="androidapptest.PracticeTest" enable="true"/>
+			<class name="WebsiteTest.SauselabLogintest" enable="true"/>
+		</classes>
+	</test>
+</suite>
