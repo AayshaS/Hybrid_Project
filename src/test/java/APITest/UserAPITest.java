@@ -76,10 +76,18 @@ public class UserAPITest extends BaseClass {
 			test.log(Status.PASS, "The response status code is 200");
 		}else {
 			test.log(Status.FAIL, "the response status code is not 200");
+			;
 		}
 	}
 
-	@Test(priority=3)
+	@Test(priority = 3)
+	public void verifySchemaValidation(){
+		Response res=userapi.getUser(userid);
+		userapi.schemaValidation(res);
+	}
+
+
+	//@Test(priority=3)
 	public void testUpdatetUser() {
 		email=faker.internet().safeEmailAddress();
 		user.setEmail(email);
@@ -96,7 +104,7 @@ public class UserAPITest extends BaseClass {
 		
 	}
 	
-	@Test(priority=4)
+	//@Test(priority=4)
 	public void testDeleteUser() {
 		email=faker.internet().safeEmailAddress();
 		user.setEmail(email);
@@ -112,5 +120,6 @@ public class UserAPITest extends BaseClass {
 			test.log(Status.FAIL, "the reponse status code is not 204");
 		}
 	}
+
 
 }

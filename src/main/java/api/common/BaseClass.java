@@ -9,16 +9,18 @@ import java.util.Date;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
+import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
+import website.utils.logs.Log;
 
 public class BaseClass {
 	
 	public   ExtentSparkReporter spark;
 	public   ExtentReports report;
-	public  ExtentTest test;
+	public static ExtentTest test;
 	
 	@BeforeSuite
 	public void initialSetup() {
@@ -43,4 +45,8 @@ public class BaseClass {
 		report.flush();
 	}
 
+	public static void log(String log) {
+		BaseClass.test.log(Status.PASS,log);
+		Log.info(log);
+	}
 }

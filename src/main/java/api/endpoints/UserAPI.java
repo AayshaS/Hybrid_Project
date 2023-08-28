@@ -1,7 +1,9 @@
 package api.endpoints;
 
+import io.restassured.module.jsv.JsonSchemaValidator;
 import io.restassured.response.Response;
 import api.payload.Users;
+import org.testng.annotations.Test;
 
 import java.io.FileInputStream;
 import java.util.Properties;
@@ -64,6 +66,7 @@ public class UserAPI {
         return res;
 
     }
+
     public Response deleteUser( int id) {
         try {
             pro.load(new FileInputStream("src/main/java/api/config/config.properties"));
@@ -81,5 +84,15 @@ public class UserAPI {
         return res;
 
     }
+
+
+    public void schemaValidation(Response resp){
+//        Response resp = getUser(id);
+        resp.then().log().all().body(JsonSchemaValidator.matchesJsonSchemaInClasspath("GoRestSchemaValidation.json"));
+//        JsonSchemaValidator.matchesJsonSchemaInClasspath("JsonSchemaValidator.json");
+
+        System.out.println("API response has been validated against the schema.");
+    }
+
 
 }

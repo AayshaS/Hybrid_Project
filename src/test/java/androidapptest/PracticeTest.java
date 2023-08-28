@@ -20,7 +20,7 @@ Practice practice;
 //    public static ExtentTest test;
 //    public static ExtentReports report  =new ExtentReports();
 
-    @BeforeSuite
+    //@BeforeSuite
     public void ini() throws IOException {
         SimpleDateFormat d=new SimpleDateFormat(" dd-MM-yyyy_hh_mm_ss_a_z");
         String d1=d.format(new Date());
@@ -60,7 +60,7 @@ Practice practice;
         Thread.sleep(5000);
     }
 
-    @AfterSuite
+   // @AfterSuite
     public void saveReport() {
         report.flush();
     }

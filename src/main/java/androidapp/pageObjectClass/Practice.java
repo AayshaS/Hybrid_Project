@@ -42,7 +42,7 @@ public class Practice extends BaseTest {
 
 
 public Practice(){
-    PageFactory.initElements(driver,this);
+  PageFactory.initElements(driver,this);
 }
 
     public void openApp() throws InterruptedException {
